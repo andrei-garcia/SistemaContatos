@@ -11,3 +11,10 @@ Importar o dump banco.sql para criar as tabelas envolvidas.
 Após isso já é possível fazer login com o usuario : andrei senha: andrei
 
 Caso preferir criar um usuario e senha na tabela usuario e utilizar.
+
+versoes banco e php
+
+PHP: 7.0.8
+mysql: 5.5.42
+
+Testes utilizando apache servidor;
